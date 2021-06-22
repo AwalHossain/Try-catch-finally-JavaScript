@@ -11,4 +11,4 @@ function  reverseString(str) {
  }
 
 
-reverseString('javascript')
+reverseString('1234')
